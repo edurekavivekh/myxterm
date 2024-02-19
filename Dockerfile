@@ -1,4 +1,4 @@
-FROM node:20.7
+FROM node:20.11.1
 MAINTAINER Paris Kasidiaris <paris@sourcelair.com>
 
 # Set the working directory
